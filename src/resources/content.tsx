@@ -65,7 +65,7 @@ const home: Home = {
   },
   subline: (
     <>
-     I'm Muhammad Hamza , a MERN stack developer specializing in building dynamic, scalable, and user-friendly web applications. I focus on crafting clean code, intuitive interfaces, and seamless end-to-end solutions using MongoDB, Express.js, React, and Node.js.
+     I am Muhammad Hamza , a MERN stack developer specializing in building dynamic, scalable, and user-friendly web applications. I focus on crafting clean code, intuitive interfaces, and seamless end-to-end solutions using MongoDB, Express.js, React, and Node.js.
     </>
   ),
 };
